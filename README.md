@@ -21,27 +21,12 @@
 - 👤 **Edit Profil**  
   Sesuaikan nama dan informasi profil Anda agar terasa lebih personal.
 
-## 📱 Tampilan Aplikasi
-*(Tangkapan layar dapat ditambahkan di sini)*
-
 ## 🛠️ Teknologi yang Digunakan
 
 - Bahasa: Java
 - Database: SQLite
 - UI: XML Layout, RecyclerView
 - Notifikasi: AlarmManager & BroadcastReceiver
-
-## 🚀 Cara Menjalankan
-
-1. Clone repositori ini
-2. Buka di Android Studio
-3. Jalankan dengan emulator atau perangkat Android nyata
-
-## 📂 Struktur Folder Penting
-
-- `Data/`: Berisi struktur database dan model catatan
-- `Presentation/ui/`: Berisi antarmuka pengguna dan aktivitas
-- `Presentation/adapter/`: Adapter untuk menampilkan data di RecyclerView
 
 ---
 
