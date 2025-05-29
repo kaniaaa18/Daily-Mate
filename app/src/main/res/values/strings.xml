@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DailyMate</string>
+    <string name="add_task">Tambah Tugas</string>
+    <string name="default_web_client_id">756726259667-naff0o7eitcofrt2kb8goumms9jpljtj.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
